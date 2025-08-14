@@ -2,7 +2,7 @@
   "name": "halcyon-inspired-theme",
   "displayName": "halcyon-inspired-theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "PrestonScott",
   "engines": {
     "vscode": "^1.98.0"
